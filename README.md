@@ -44,3 +44,11 @@ Técnico superior en Desarrollo de aplicaciones web.
   tecnologías especifitas, garantizando el acceso a los datos de forma segura y cumpliendo los criterios de accesibilidad, 
   usabilidad y calidad exigidas en los estándares establecidos.
 <br><br>
+
+## 💬 Habilidades:
+
+**Trabajo en equipo**: :star::star::star::star:<br>
+**Organización**: :star::star::star:<br>
+**Adaptavilidad**: :star::star::star::star:<br>
+**Creatividad**: :star::star::star::star::star:<br>
+<br><br>
