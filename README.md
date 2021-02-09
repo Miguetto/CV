@@ -2,7 +2,7 @@
 
 [Email](mailto:migueliscb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/miguedev/) / [GitHub](https://github.com/Miguetto/)
 
-## Experiencia profesional
+## :hammer_and_wrench: Experiencia profesional
 
 **Técnico informático**  [Ayto. Chipiona, Chipiona (Cádiz)] _(Marzo 2010 - Junio 2010)_ <br>
 Realización del módulo en Formación en centros de trabajo.
@@ -24,7 +24,7 @@ Realización del módulo en Formación en centros de trabajo.
   - **_Tecnologías usadas:_** AutoCad, Adobe Ilustrator, Sketchup, CE3X.
 <br><br>
 
-## Educación
+## :books: Educación
 
 **I.E.S Castillo de luna** (Junio 2010)_ <br>
 Técnico en explotación de sistemas informáticos.
@@ -45,10 +45,15 @@ Técnico superior en Desarrollo de aplicaciones web.
   usabilidad y calidad exigidas en los estándares establecidos.
 <br><br>
 
-## 💬 Habilidades:
+## :speech_balloon: Habilidades:
 
 **Trabajo en equipo**: :star::star::star::star:<br>
 **Organización**: :star::star::star:<br>
 **Adaptavilidad**: :star::star::star::star:<br>
 **Creatividad**: :star::star::star::star::star:<br>
 <br><br>
+
+## Otros datos de interés:
+
+Carnet de conducir tipo b y coche propio.<br>
+Disponivilidad inmediata.
