@@ -1,4 +1,4 @@
-![Screenshot](IMG_20210206_115846.jpg)
+![Screenshot](IMG_20210206_115846.jpg =250x250)
 # Miguel Ángel Caro Bernal 
 
 [migueliscb@gmail.com](mailto:migueliscb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/miguedev/) / [GitHub](https://github.com/Miguetto/)
