@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://github.com/Miguetto/CV/blob/gh-pages/IMG_20210206_115846.jpg" width="10%" height="10%"/>
+  <img src="https://github.com/Miguetto/CV/blob/gh-pages/IMG_20210206_115846.jpg" width="15%" height="15%"/>
 </p>
 
 # Miguel Ángel Caro Bernal 
