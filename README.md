@@ -1,6 +1,6 @@
 # Miguel Ángel Caro Bernal
 
-[Email](mailto:migueliscb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/miguedev/) / [GitHub](https://github.com/Miguetto/)
+[migueliscb@gmail.com](mailto:migueliscb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/miguedev/) / [GitHub](https://github.com/Miguetto/)
 
 ## :hammer_and_wrench: Experiencia profesional
 
