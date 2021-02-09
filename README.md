@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://github.com/Miguetto/CV/blob/gh-pages/IMG_20210206_115846.jpg"/>
+<p align="rigth">
+  <img src="https://github.com/Miguetto/CV/blob/gh-pages/IMG_20210206_115846.jpg"/ >
 </p>
+
 # Miguel Ángel Caro Bernal 
 
 [migueliscb@gmail.com](mailto:migueliscb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/miguedev/) / [GitHub](https://github.com/Miguetto/)
