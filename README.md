@@ -44,6 +44,12 @@ Realización del módulo en Formación en centros de trabajo.
 
 ## :books: Educación
 
+**atSistemas** (marzo 2023)_
+
+Formación en React por la Comunidad Front.
+
+  - JavaScript avanzado, aprender a crear y estructurar aplicaciones React con componentes funcionales reutilizables, aprender a trabajar con Hooks,         trabajar con datos de una BBDD, realización de actividades propuestas y actividad final.
+
 **I.E.S Doñana** (Diciembre 2021)_ 
 
 Técnico superior en Desarrollo de aplicaciones web.
