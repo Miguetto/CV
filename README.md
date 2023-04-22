@@ -8,6 +8,20 @@
 
 ## :hammer_and_wrench: Experiencia profesional
 
+**Full Stack Developer**  [Working my self] _(Marzo 2021 - Actualidad)_
+
+Realización de proyectos personales relacionados con el desarrollo web.
+
+  - Maquetación con HTML5 , CSS3 y utilización de Material UI.
+  - Funcionalidad con JavaScript y componetización con React.js.
+  - Manejo de custom Hooks, Redux.
+  - Testing con Jest y React Testing Library.
+  - Creación y manejo de datos relacionales con MongoDB o PostreSQL.
+  - Utilizacion de Axios para solicitudes al servidor.
+  - Uso de Git y GitHub.
+  - Añadir los cambios realizados a Pre-producción y Producción.
+  - **_Tecnologías usadas:_** PHP, Ajax, Html5, CSS 3, Framework Yii, JavaScript, React.js, Node.js, MongoDB, PostgreSQL, Jest, React Testing Library, Material UI.
+
 **Técnico superior en desarrollo de aplicaciones web**  [Ayto. Sanlúcar de Barrameda, Sanlúcar de Barrameda (Cádiz)] _(Marzo 2021 - Junio 2021)_
 
 Realización del módulo en Formación en centros de trabajo.
