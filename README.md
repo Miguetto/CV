@@ -8,7 +8,7 @@
 
 ## :hammer_and_wrench: Experiencia profesional
 
-**Full Stack Developer**  [Working my self] _(Marzo 2021 - Actualidad)_
+**Full Stack Developer**  [Working my self] _(Marzo 2022 - Actualidad)_
 
 Realización de proyectos personales relacionados con el desarrollo web.
 
