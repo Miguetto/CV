@@ -17,7 +17,7 @@ Realización de proyectos personales relacionados con el desarrollo web.
   - Manejo de custom Hooks, Redux.
   - Testing con Jest y React Testing Library.
   - Creación y manejo de datos relacionales con MongoDB o PostreSQL.
-  - Utilizacion de Axios para solicitudes al servidor.
+  - Utilización de Axios para solicitudes al servidor.
   - Uso de Git y GitHub.
   - Añadir los cambios realizados a Pre-producción y Producción.
   - **_Tecnologías usadas:_** PHP, Ajax, Html5, CSS 3, Framework Yii, JavaScript, React.js, Node.js, MongoDB, PostgreSQL, Jest, React Testing Library, Material UI.
@@ -26,7 +26,7 @@ Realización de proyectos personales relacionados con el desarrollo web.
 
 Realización del módulo en Formación en centros de trabajo.
 
-  - Creacción de nuevos módulos y nuevas funcionalidades en la aplicación web interna del Ayto. de sanlúcar de Barrameda.
+  - Creación de nuevos módulos y nuevas funcionalidades en la aplicación web interna del Ayto. de sanlúcar de Barrameda.
     - Módulo de incidencias, Módulo de noticias flash, Módulo de Gestión del empleado, Módulo de gestión de inventario.
   - Corrección de errores y refactorización en la aplicación web interna del Portal del empleado, Inventario y Policía Local.
   - Añadir los cambios realizados a Pre-producción y Producción.
@@ -58,6 +58,15 @@ Realización del módulo en Formación en centros de trabajo.
 
 ## :books: Educación
 
+**Máster de cero a experto React, Hooks y MERN** (abril 2023)_
+
+Formación en React a través de la plataforma Udemy.
+
+  - JavaScript avanzado, aprender a crear y estructurar aplicaciones React con componentes
+    funcionales, aprender a trabajar con Hooks, realizar pruebas unitarias y de integración,
+    desarrollo MERN - Mongo Express React Node, React Redux, React Context y otros manejadores
+    de estado.
+
 **atSistemas** (marzo 2023)_
 
 Formación en React por la Comunidad Front.
@@ -84,7 +93,7 @@ Técnico superior en Proyectos de edificación.
 Técnico en explotación de sistemas informáticos.
 
   - Instalación y mantenimiento de equipos y sistemas informáticos, implantación y mantenimiento de
-    aplicaciones ofimáticas y coorporativas. Mantenimiento de portales de información.
+    aplicaciones ofimáticas y corporativas. Mantenimiento de portales de información.
 
 
 ## :speech_balloon: Habilidades:
