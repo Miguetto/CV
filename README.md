@@ -8,18 +8,32 @@
 
 ## :hammer_and_wrench: Experiencia profesional
 
+**Full Stack Developer**  [Hotel Playa de Regla] _(Junio 2022 - Actualidad)_
+
+Realización de proyectos personales relacionados con el desarrollo web.
+
+  - Desarrollo de la web corporativa del hotel.
+  - Desarrollo de una aplicación destinada a inventario,
+  pedidos y proveedores.
+  - Integración de bases de datos con MongoDB.
+  - Realización de pruebas unitarias, de integración y de
+  aceptación.
+
+  - **_Tecnologías usadas:_** HTML, CSS, Tailwind, JavaScript, React.js, MongoDB,
+  Jest.
+
+
 **Full Stack Developer**  [Working my self] _(Marzo 2022 - Actualidad)_
 
 Realización de proyectos personales relacionados con el desarrollo web.
 
-  - Maquetación con HTML5 , CSS3 y utilización de Material UI.
-  - Funcionalidad con JavaScript y componetización con React.js.
-  - Manejo de custom Hooks, Redux.
-  - Testing con Jest y React Testing Library.
-  - Creación y manejo de datos relacionales con MongoDB o PostreSQL.
-  - Utilización de Axios para solicitudes al servidor.
-  - Uso de Git y GitHub.
-  - Añadir los cambios realizados a Pre-producción y Producción.
+  - Desarrollo de aplicaciones web con interfaces de usuario
+  interactivas, diseños y funcionalidades.
+  - Diseño y desarrollo de bases de datos.
+  - Implementación de Apis.
+  - Realización de pruebas unitarias, de integración y de
+  aceptación.
+
   - **_Tecnologías usadas:_** PHP, Ajax, Html5, CSS 3, Framework Yii, JavaScript, React.js, Node.js, MongoDB, PostgreSQL, Jest, React Testing Library, Material UI.
 
 **Técnico superior en desarrollo de aplicaciones web**  [Ayto. Sanlúcar de Barrameda, Sanlúcar de Barrameda (Cádiz)] _(Marzo 2021 - Junio 2021)_
