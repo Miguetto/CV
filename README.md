@@ -44,7 +44,8 @@ Realización del módulo en Formación en centros de trabajo.
     - Módulo de incidencias, Módulo de noticias flash, Módulo de Gestión del empleado, Módulo de gestión de inventario.
   - Corrección de errores y refactorización en la aplicación web interna del Portal del empleado, Inventario y Policía Local.
   - Añadir los cambios realizados a Pre-producción y Producción.
-  - **_Tecnologías usadas:_** PHP, JavaScript, Ajax, Html, CSS y Framework Yii.
+  - **_Tecnologías usadas:_**  HTML, CSS, JavaScript, React.js, PostgreSQL, Ajax,
+  PHP, Yii.
 
 **Delineante**  [aQ23, Chipiona (Cádiz)] _(Marzo 2015 - Junio 2015)_
 
